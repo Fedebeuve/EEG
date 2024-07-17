@@ -7,7 +7,7 @@ from scipy.signal import butter, filtfilt
 import os
 
 # Define the base directory where your files are located
-base_dir = r'F:\Sleep Data base\cap-sleep-database-1.0.0\3-5-10-11-HC'
+base_dir = r'...'
 
 # Define function to load sleep stage annotations from a text file
 def load_sleep_stages(file_path):
